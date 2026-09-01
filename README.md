@@ -1,3 +1,7 @@
+> **⚠️ Proprietary — All Rights Reserved.** © 2026 Sandeep Grover. This repository is licensed to Sandeep Grover and may **not** be used, run, copied, modified, distributed, or used to train models without prior written permission. Public visibility does not grant a license. See [LICENSE](LICENSE).
+
+---
+
 # hathitrust-accounting-corpus
 
 Systematic pipeline for identifying, segmenting, and analyzing historical accounting texts in the HathiTrust corpus. Built for use within HTRC Data Capsules, fully compliant with HTRC export restrictions.
